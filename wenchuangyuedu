@@ -1,4 +1,0 @@
-hostname = qcjesnfs.bar
-
-#文创阅读
-http://qcjesnfs.bar/hfTask/startRead url script-request-header https://raw.githubusercontent.com/age174/-/main/wcyd.js
