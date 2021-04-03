@@ -1,0 +1,4 @@
+hostname = sdk.*.com
+
+#阳光果园
+^https://.+?[^/]/index/guoyuan url script-request-body https://raw.githubusercontent.com/age174/-/main/yggy.js
